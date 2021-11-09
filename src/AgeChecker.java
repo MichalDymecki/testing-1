@@ -9,9 +9,13 @@ public class AgeChecker {
 
         if (customerAge >= 18){
             System.out.println("Wanna buy some alcohol? No problem, thanks");
-        }else{
+        } else if (customerAge < 0){
+            System.out.println("No shit, man");
+        }
+        else{
             System.out.println("You can't buy alcohol until you reach age of 18");
         }
+
 
     }
 }
