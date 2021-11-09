@@ -1,9 +1,4 @@
 /.idea/
+/out/
 testy_automatyczne_szkolenie.iml
-/out/production/testy_automatyczne_szkolenie/CustomScanner.class
-/out/production/testy_automatyczne_szkolenie/HelloWorld.class
-/out/production/testy_automatyczne_szkolenie/InkrementacjaDekrementacja.class
-/out/production/testy_automatyczne_szkolenie/OperatoryMatematyczne.class
-/out/production/testy_automatyczne_szkolenie/TypyObiektowe.class
-/out/production/testy_automatyczne_szkolenie/TypyProste.class
-/out/production/testy_automatyczne_szkolenie/Zmienne.class
+testing-1.iml
