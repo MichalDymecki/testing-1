@@ -22,7 +22,7 @@ public class StudentChecker {
         zdzisiek.email= "zdzislaw@email.com";
         zdzisiek.numerIndeksu = 3009;
 
-        Student studenci[] = new Student[3];
+        Student[] studenci = new Student[3];
         studenci[0] = adam;
         studenci[1] = ewa;
         studenci[2] = zdzisiek;
