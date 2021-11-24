@@ -13,7 +13,7 @@ public class MetodyTest {
         int i = 5;
         int j = 7;
 
-        int result = metody.add(i, j, "Hello");
+        int result = metody.add(i, j);
         System.out.println(result);
 
     }
