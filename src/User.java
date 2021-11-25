@@ -7,8 +7,10 @@ public class User {
 
     }
 
-    public User(String user, String pass){
+    public User(String username, String password){
         System.out.println("Hello z konstruktora");
+        this.username = username;
+        this.password = password;
     }
 
     public void sayHello(){
