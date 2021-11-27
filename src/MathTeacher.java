@@ -8,6 +8,11 @@ public class MathTeacher extends Person {
         System.out.println("Jestem w konstruktorze mathteacher");
     }
 
+    public void walk(){
+        super.walk();
+        System.out.println("I walk very fast.");
+    }
+
     public void techMath(){
         System.out.println("I am teaching math at school");
     }

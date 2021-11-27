@@ -13,4 +13,8 @@ public class Footballer extends Person {
         walk();
     }
 
+    public void eat(){
+        System.out.println("As footballer I have to eat healthy food.");
+    }
+
 }
